@@ -1,5 +1,2 @@
-# lab3_Team6_practice
-
-Change 1
-Project Team Members:
+#lab3_Team6_practice
 Tyler Paik
